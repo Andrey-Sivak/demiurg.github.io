@@ -1,0 +1,45 @@
+@font-face {
+font-family: 'Akrobat Semibold';
+src: url('../fonts/Akrobat-SemiBold.eot');
+src: url('../fonts/Akrobat-SemiBold.eot?#iefix') format('embedded-opentype'),
+url('../fonts/Akrobat-SemiBold.woff') format('woff'),
+url('../fonts/Akrobat-SemiBold.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: 'Akrobat Bold';
+src: url('../fonts/Akrobat-Bold.eot');
+src: url('../fonts/Akrobat-Bold.eot?#iefix') format('embedded-opentype'),
+url('../fonts/Akrobat-Bold.woff') format('woff'),
+url('../fonts/Akrobat-Bold.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: 'Akrobat Regular';
+src: url('../fonts/Akrobat-Regular.eot');
+src: url('../fonts/Akrobat-Regular.eot?#iefix') format('embedded-opentype'),
+url('../fonts/Akrobat-Regular.woff') format('woff'),
+url('../fonts/Akrobat-Regular.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: 'Cambria Regular';
+src: url('../fonts/Cambria.eot');
+src: url('../fonts/Cambria.eot?#iefix') format('embedded-opentype'),
+url('../fonts/Cambria.woff') format('woff'),
+url('../fonts/Cambria.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+	font-family: "MyriadProRegular";
+	src: url("../fonts/MyriadProRegular/MyriadProRegular.eot");
+	src: url("../fonts/MyriadProRegular/MyriadProRegular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/MyriadProRegular/MyriadProRegular.woff") format("woff"),
+	url("../fonts/MyriadProRegular/MyriadProRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
